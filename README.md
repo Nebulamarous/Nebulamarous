@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nebulamarous
-- 👀 I’m interested in Robotics, gaming, music, Climbing!
+- 👀 I’m interested in Robotics, gaming, music, and Climbing!
 - 🌱 I’m currently learning Object oriented C++ commands for Robotics
-- 💞️ I’m looking to collaborate on potentially game jam projects later on
+- 💞️ I’m looking to potentially collaborate on game jam projects later on
 - 📫 How to reach me? discord!@ "daughterofthecosmos_"
 
 <!---
