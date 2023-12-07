@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Nebulamarous
-- 👀 I’m interested in Robotics, gaming, music, and Climbing!
-- 🌱 I’m currently learning Object oriented C++ commands for Robotics
-- 💞️ I’m looking to potentially collaborate on game jam projects later on
-- 📫 How to reach me? discord!@ "daughterofthecosmos_"
+Hello my name is Kaleb, I am a first year robotics student and am currently enrolled in VRC as well as FRC in grade 11.
 
-<!---
-Nebulamarous/Nebulamarous is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Right now: I am working with C++ object-oriented code for my team's robot's as well as looking intoy typescript/unreal game dev for game jams
+
+In the future: I am looking to study for and complete my cybersecurity [CompTIA Security+}(https://www.comptia.org/certifications/security) for cybersecurity 
